@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Non classé &#8211; Maescristro</title>
+	<atom:link href="http://chrisdeparis.github.io/maescristro/category/non-classe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chrisdeparis.github.io/maescristro</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Mon, 14 May 2018 14:36:15 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Article 2</title>
+		<link>http://chrisdeparis.github.io/maescristro/article-2/</link>
+		<comments>http://chrisdeparis.github.io/maescristro/article-2/#respond</comments>
+		<pubDate>Fri, 11 May 2018 22:38:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">http://chrisdeparis.github.io/maescristro/?p=8</guid>
+		<description><![CDATA[D'où vient-il? Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>D'où vient-il?</h2>
+<p>Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, "Lorem ipsum dolor sit amet...", proviennent de la section 1.10.32.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://chrisdeparis.github.io/maescristro/article-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Article 1</title>
+		<link>http://chrisdeparis.github.io/maescristro/article-1/</link>
+		<comments>http://chrisdeparis.github.io/maescristro/article-1/#respond</comments>
+		<pubDate>Fri, 11 May 2018 14:09:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">http://chrisdeparis.github.io/maescristro/?p=4</guid>
+		<description><![CDATA[Qu'est-ce que le Lorem Ipsum? Le Lorem Ipsum est simplement du faux texte employé dans la composition [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Qu'est-ce que le Lorem Ipsum?</h2>
+<p>Le <strong>Lorem Ipsum</strong> est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://chrisdeparis.github.io/maescristro/article-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Article 3</title>
+		<link>http://chrisdeparis.github.io/maescristro/article-3/</link>
+		<comments>http://chrisdeparis.github.io/maescristro/article-3/#respond</comments>
+		<pubDate>Thu, 10 May 2018 15:38:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">http://chrisdeparis.github.io/maescristro/?p=10</guid>
+		<description><![CDATA[&#160; Pourquoi l'utiliser? On sait depuis longtemps que travailler avec du texte lisible et contenant [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>
+<p>&nbsp;</p>
+</div>
+<div>
+<h2>Pourquoi l'utiliser?</h2>
+<p>On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes).</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://chrisdeparis.github.io/maescristro/article-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bonjour tout le monde !</title>
+		<link>http://chrisdeparis.github.io/maescristro/bonjour-tout-le-monde/</link>
+		<comments>http://chrisdeparis.github.io/maescristro/bonjour-tout-le-monde/#comments</comments>
+		<pubDate>Wed, 09 May 2018 11:59:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">http://chrisdeparis.github.io/maescristro/?p=1</guid>
+		<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous !]]></description>
+				<content:encoded><![CDATA[<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://chrisdeparis.github.io/maescristro/bonjour-tout-le-monde/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

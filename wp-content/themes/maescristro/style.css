@@ -1,0 +1,90 @@
+/*
+Theme Name: Maescristro
+Author: Christian Milfort
+Author URI: http://maescristro.com/
+Description: Thème modèle pour site perso
+Version: 1.0
+Text Domain: Maescristro
+*/
+
+body{
+    font-family: Raleway,sans-serif;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: 400;
+}
+main#main {
+    margin-top: 100px;
+}
+.img-responsive {
+    margin-bottom: 25px;
+}
+img-w{
+
+}
+.jumbotron {
+    margin-top: 56px;
+    border-radius:0;
+}
+
+.article {
+    margin-top: 150px;
+}
+
+footer {
+    margin-top: 200px;
+}
+footer ul {
+    list-style: none;
+}
+.bd-footer {
+    text-align: center;
+}
+.bd-footer {
+    font-size: 85%;
+    text-align: center;
+    background-color: #343A40;
+}
+.text-muted {
+    color: #6c757d!important;
+}
+
+/*image overlay*/
+.image {
+    display: block;
+    height: 58.5%;
+    width: 92.5%;
+
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+      height: 58.5%;
+      width: 92.5%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000;
+  }
+  
+  .box:hover .overlay {
+    opacity: 1;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  #sidebar.widgets-area li {
+      list-style: none;
+  }
