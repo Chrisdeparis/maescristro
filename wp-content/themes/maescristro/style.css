@@ -145,6 +145,7 @@ footer ul {
   
   .header-content {
     z-index: 2;
+    margin-bottom: 300px;
   }
   
   .header-content h1 {
