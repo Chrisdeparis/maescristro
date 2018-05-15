@@ -753,6 +753,7 @@ footer ul {
     }
     body footer a#liens:hover {
         text-decoration: none;
+        color:orangered;
     }
 
 	sub {
