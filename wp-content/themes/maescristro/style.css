@@ -2381,8 +2381,8 @@ footer ul {
         opacity:1;
       }
       .close:hover {
-          background:transparent;
-          color:#fff;
+          background:transparent!important;
+          color:#fff!important;
       }
       
       #image {
