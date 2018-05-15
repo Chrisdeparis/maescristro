@@ -750,7 +750,10 @@ footer ul {
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		color: #98c593;
-	}
+    }
+    body footer a#liens:hover {
+        text-decoration: none;
+    }
 
 	sub {
 		position: relative;
@@ -2178,6 +2181,7 @@ footer ul {
 
 /* Footer */
 
+
 	#footer {
 		position: relative;
 		height: 5em;
@@ -2186,14 +2190,18 @@ footer ul {
 		background: #39454b;
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
-	}
+    }
+    
 
 		#footer a {
-			color: inherit;
+            color: inherit;
+            
 		}
 
 			#footer a:hover {
-				color: #b9babb;
+                color: #b9babb;
+                text-decoration:none;
+                
 			}
 
 		#footer ul.actions {
@@ -2335,4 +2343,8 @@ footer ul {
 				padding-bottom: 2em;
 			}
 
-		}
+        }
+        
+        a#liens:hover{
+            text-decoration: none;
+        }
