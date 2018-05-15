@@ -145,7 +145,7 @@ footer ul {
   
   .header-content {
     z-index: 2;
-    margin-bottom: 130px;
+    margin-bottom: 20px;
   }
   
   .header-content h1 {
@@ -157,6 +157,7 @@ footer ul {
     font-size: 1.5rem;
     display: block;
     padding-bottom: 2rem;
+
   }
   
   .btn {
