@@ -2353,18 +2353,21 @@ footer ul {
 
 
         /*Modal gallery css*/
-        body {margin:2rem;}
+        body {margin:0;}
 
         .modal-dialog {
             max-width: 800px;
             margin: 30px auto;
         }
       
-      
+      .modal-content {
+          background-color:transparent;
+      }
       
       .modal-body {
         position:relative;
         padding:0px;
+        margin-top:115px;
       }
       .close {
         position:absolute;
