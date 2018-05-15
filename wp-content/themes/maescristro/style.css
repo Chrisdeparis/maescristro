@@ -2071,8 +2071,10 @@ footer ul {
 
 			.main.style3.primary {
                 background: #ffffff;
-                height: 100vh;
-			}
+            }
+            #dev.main.style3.primary {
+                height: 100vh;                
+            }
 
 			.main.style3.secondary {
 				background: #f5f6f7;
