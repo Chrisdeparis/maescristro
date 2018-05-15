@@ -2070,7 +2070,8 @@ footer ul {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+                background: #ffffff;
+                height: 100vh;
 			}
 
 			.main.style3.secondary {
@@ -2378,6 +2379,10 @@ footer ul {
         font-weight: normal;
         color:#fff;
         opacity:1;
+      }
+      .close:hover {
+          background:transparent;
+          color:#fff;
       }
       
       #image {
